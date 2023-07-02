@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Learning Portal</string>
+
+
+    <!--main page-->
+    <string name="welcome_text">Welcome To Learning Management System (LMS)</string>
+    <string name="welcome_description">You can check timetable, lecture notes and results of your exams.If your new create a new account and access lecture materials.</string>
+
+    <!--login-->
+    <string name="signup_text">Don’t have an account?<font color="#4B1BDD"> Sign up</font></string>
+    <string name="signIn_text">Do you have an account?<font color="#4B1BDD"> Sign In</font></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="no">No</string>
+    <string name="warning_title">Logout</string>
+    <string name="dummy_text">Sure U want to logout this Application</string>
+    <string name="yes">Yes</string>
+</resources>

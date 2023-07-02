@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/pdfLinkTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="10dp"
+            android:fontFamily="@font/poppins_medium"
+            android:text="Download Link"
+            android:drawablePadding="10dp"
+            android:layout_marginTop="5dp"
+            android:singleLine="true"
+            android:layout_marginBottom="5dp"
+            android:drawableEnd="@drawable/ic_baseline_download_24"
+            android:drawableTint="#4CAF50"
+            android:textColor="@color/black"
+            android:textSize="10sp" />
+
+<!--        <ImageButton-->
+<!--            android:id="@+id/downloadBtn"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_alignParentEnd="true"-->
+<!--            android:src="@drawable/ic_baseline_download_24"-->
+<!--            app:tint="#4CAF50"-->
+<!--            android:layout_centerVertical="true"-->
+<!--            android:layout_marginEnd="10dp"-->
+<!--            android:background="@android:color/transparent"/>-->
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

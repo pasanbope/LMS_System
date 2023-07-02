@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "528477666272",
+    "project_id": "lms-system-47d4f",
+    "storage_bucket": "lms-system-47d4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528477666272:android:ee6015b7a3bf05613bc985",
+        "android_client_info": {
+          "package_name": "com.pasanbopegamage.lms_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528477666272-0032s31d1ukkumf1f1u71b56p9hpjm8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pasanbopegamage.lms_system",
+            "certificate_hash": "4d44dd9abbbcb9d7f785b080a7c5055e1ad4040a"
+          }
+        },
+        {
+          "client_id": "528477666272-ngjfuddkkg67n2h9sev2h1vvhrgmpi58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUNtVCXtLSSeT5C6CWQoEYazTSUN0wmas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528477666272-ngjfuddkkg67n2h9sev2h1vvhrgmpi58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
